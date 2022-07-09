@@ -1,0 +1,17 @@
+{
+  "name": "oauth2-in-nodejs",
+  "version": "1.0.0",
+  "description": "- This is project is part of Codecademy [Full-Stack Engineer Pathway's](https://www.codecademy.com/learn/paths/full-stack-engineering-cfb) external resource:\r     - [How to implement OAuth 2.0 in Node.js](https://blog.logrocket.com/implement-oauth-2-0-node-js/) Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-oauth2-server": "^2.4.0",
+    "pg": "^8.7.3"
+  }
+}
